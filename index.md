@@ -1,3 +1,5 @@
+## Yanzhen Chen
+
 I am  a Tenure-track Assistant Professor in the [Department of Statistics at University of California, Los Angeles](http://statistics.ucla.edu/). Previously,  from  July,  2017 to June, 2019, I was Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). My undergraudate degree was a B.S in Mathematics completed at [CIMAT](https://www.cimat.mx/en) (in Mexico) in April 2013, advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). 
 
 My  research interests  include:
@@ -10,9 +12,6 @@ My  research interests  include:
 - Graphical models
 
 A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github.io/blob/master/cv_oscar_madrid.pdf).
-
-I was  born  and raised in Honduras.
-
 
 ### Grants:
 NSF DMS-2015489 
@@ -125,7 +124,4 @@ Shitong Wei, **O.-H. Madrid-Padilla**, James Sharpnack. Distributed Cartesian Po
 
 <a href="https://m.maploco.com/details/24f5xvqg"><img style="border:0px;" src="https://www.maploco.com/vmap/s/9978856.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>  
 
-<!-- Contador de visitas -->
-<center><a href="http://www.websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
-<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="http://www.websmultimedia.com/contador-de-visitas.php?id=264508"></a><br><a href='http://www.websmultimedia.com/contador-de-visitas-gratis'>Contador de visitas</a><br><a href='http://www.websmultimedia.com/registro-de-marcas-y-logotipos'>registro de marcas</a></center>
-<!-- Fin Contador de visitas -->
+
