@@ -1,7 +1,11 @@
 ## Yanzhen Chen
-<img src="{{ site.baseurl }}/img/yanzhenchen.jpg" width="400" height="1000" ALIGN="right" style="margin:10px 15px"/>
+<img src="{{ site.baseurl }}/img/yanzhenchen.jpg" width="200" height="500" ALIGN="right" style="margin:10px 15px"/>
 
-I am  a Tenure-track Assistant Professor in the [Department of Statistics at University of California, Los Angeles](http://statistics.ucla.edu/). Previously,  from  July,  2017 to June, 2019, I was Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). My undergraudate degree was a B.S in Mathematics completed at [CIMAT](https://www.cimat.mx/en) (in Mexico) in April 2013, advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). 
+I am  a Tenure-track Assistant Professor in the [Information Systems, Business Statistics and Operations Management at HKUST](https://isom.hkust.edu.hk/). I received my Ph.D. from the University of Texas at Austin. My research focuses on the future of labor markets, FinTech, health IT and statistical learning. My studies have been published in MIS Quarterly, POM and featured by Bloomberg Businessweek. I have been invited to present her work to the Federal Reserve Bank at Philadelphia and the Office of the Comptroller of the Currency, U.S. Department of Treasury. I also have methodological work published in premier journals of statistics, such as Biometrika.
+
+
+I also [teach classes]({{ site.baseurl }}/teaching/) in FinTech and cryptoventures and introcution to MIS for several different groups of students at HKUST.
+
 
 My  research interests  include:
 - High-dimensional statistics
@@ -15,8 +19,6 @@ My  research interests  include:
 
 ### Grants:
 NSF DMS-2015489 
-
-UCLA 2022-23 Faculty Career Development Award 
 
 ### Published/Accepted papers
 
