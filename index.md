@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "Our Team"
+title: "Test"
 ---
 This is a test.
