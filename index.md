@@ -28,8 +28,11 @@ NSF DMS-2015489
 
 ### Published/Accepted papers
 
-**Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Tweet To the Top? Social Media Personal Branding and Career Outcomes.  **MIS Quarterly**, June 2021.[Video](https://www.youtube.com/watch?v=xvpmZypbJ7w) [Media Coverage by Bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/branding-yourself-on-twitter-works-it-did-in-2012-anyway#xj4y7vzkg)
+**Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Tweet To the Top? Social Media Personal Branding and Career Outcomes.  **MIS Quarterly**, June 2021.[Video](https://www.youtube.com/watch?v=xvpmZypbJ7w) and [Media Coverage by Bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/branding-yourself-on-twitter-works-it-did-in-2012-anyway#xj4y7vzkg)
 
+Sunil Mithas, **Yanzhen Chen**, Chewei Liu, Kunsoo Han. Are Foreign and American Workers Complements or Substitutes? The Case of Information Technology Professionals,  **Accepted by MIS Quarterly**,2022
+
+Sunil Mithas, **Yanzhen Chen**, Yatang Lin, Alysson Oliveira. On Causality and Plausibility of Treatment Effects in Operations Management Research, **Accepted by Production and Operations Management**, 2022.
  
 Oscar Madrid, Wesley Tansey, **Yanzhen Chen**.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). **To appear in Journal of Machine Learning Research.** [Code](https://github.com/tansey/quantile-regression).
 
@@ -47,8 +50,6 @@ Variance estimation in graphs with the fused lasso. [PDF](https://arxiv.org/pdf/
 
 
 *Alphabetical order.
-
-#<a href="https://m.maploco.com/details/54c621l8"><img style="border:0px;" src="https://www.maploco.com/vmap/s/10173068.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>  
 
 <a href="https://clustrmaps.com/site/1bpy1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GqAkpiNYTOrL7fSu0ObUhuK1KMv5TJFr-jQhyTz6Vvw&cl=ffffff" /></a>
 
