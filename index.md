@@ -48,4 +48,5 @@ Variance estimation in graphs with the fused lasso. [PDF](https://arxiv.org/pdf/
 
 <a href="https://m.maploco.com/details/54c621l8"><img style="border:0px;" src="https://www.maploco.com/vmap/s/10173068.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>  
 
+<a href="https://clustrmaps.com/site/1bpy1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GqAkpiNYTOrL7fSu0ObUhuK1KMv5TJFr-jQhyTz6Vvw&cl=ffffff" /></a>
 
