@@ -28,6 +28,8 @@ NSF DMS-2015489
 
 ### Published/Accepted papers
 
+**Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Tweet To the Top? Social Media Personal Branding and Career Outcomes.  **MIS Quarterly**, June 2021.[Video](https://www.youtube.com/watch?v=xvpmZypbJ7w) [Media Coverage by Bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/branding-yourself-on-twitter-works-it-did-in-2012-anyway#xj4y7vzkg)
+
  
 Oscar Madrid, Wesley Tansey, **Yanzhen Chen**.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). **To appear in Journal of Machine Learning Research.** [Code](https://github.com/tansey/quantile-regression).
 
