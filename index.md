@@ -23,8 +23,7 @@ My  research interests  include:
 - Graphical models
 
 
-### Grants:
-NSF DMS-2015489 
+
 
 ### Published/Accepted papers
 
@@ -47,7 +46,18 @@ Oscar Madrid,  James Sharpnack, **Yanzhen Chen**, Daniela  Witten.  Adaptive Non
 **O.-H. Madrid-Padilla**. 
 Variance estimation in graphs with the fused lasso. [PDF](https://arxiv.org/pdf/2207.12638.pdf). 
 
+### Grants:
+**PI** 
 
++ Early Career Scheme (HK $553,000), Speak without Speaking: Stock Prices and the FOMC Press Conferences, Hong Kong Research Grants Council, 2019-2022
++ IEMS Research Grants (HK $168,000), Social Impacts of Sharing Economy, Co-PI with Yatang Lin, HKUST Institute for Emerging Market Studies, 2018-2020
++ University Initial Grant (HK $100,000), HKUST, 2017
+
+**Co-I**
+
++ Theme-based Research Scheme (**HK$20,659,000**), Contributing to the Development of Hong Kong into a Global Fintech Hub, Hong Kong Research Grants Council, 2018-2022
+
++ HKUST-WeBank Joint Lab Project (**HK $750,360**), Programmatic Advertising Retargeting and AI Customer Service, 2019-2023
 
 *Alphabetical order.
 
