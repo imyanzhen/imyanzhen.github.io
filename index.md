@@ -43,8 +43,7 @@ Oscar Madrid,  James Sharpnack, **Yanzhen Chen**, Daniela  Witten.  Adaptive Non
 
 ### Working Papers
 
-**O.-H. Madrid-Padilla**. 
-Variance estimation in graphs with the fused lasso. [PDF](https://arxiv.org/pdf/2207.12638.pdf). 
+**Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Conversation Analytics: Can Machines Read between the Lines in Real-Time Strategic Conversations?  
 
 ### Grants:
 **PI** 
