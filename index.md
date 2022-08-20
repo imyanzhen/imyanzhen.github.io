@@ -28,7 +28,7 @@ NSF DMS-2015489
 
 ### Published/Accepted papers
 
-**Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Tweet To the Top? Social Media Personal Branding and Career Outcomes.  **MIS Quarterly**, June 2021.[Video](https://www.youtube.com/watch?v=xvpmZypbJ7w) and [Media Coverage by Bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/branding-yourself-on-twitter-works-it-did-in-2012-anyway#xj4y7vzkg)
+**Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Tweet To the Top? Social Media Personal Branding and Career Outcomes.  **MIS Quarterly**, 45.2 (2021).[Video](https://www.youtube.com/watch?v=xvpmZypbJ7w) and [Media Coverage by Bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/branding-yourself-on-twitter-works-it-did-in-2012-anyway#xj4y7vzkg)
 
 Sunil Mithas, **Yanzhen Chen**, Chewei Liu, Kunsoo Han. Are Foreign and American Workers Complements or Substitutes? The Case of Information Technology Professionals,  **Accepted by MIS Quarterly**,2022
 
