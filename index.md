@@ -46,6 +46,6 @@ Variance estimation in graphs with the fused lasso. [PDF](https://arxiv.org/pdf/
 
 *Alphabetical order.
 
-<a href="https://m.maploco.com/details/24f5xvqg"><img style="border:0px;" src="https://www.maploco.com/vmap/s/9978856.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>  
+<a href="https://m.maploco.com/details/54c621l8"><img style="border:0px;" src="https://www.maploco.com/vmap/s/10173068.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>  
 
 
