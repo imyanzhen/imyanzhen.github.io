@@ -36,11 +36,10 @@ Sunil Mithas, **Yanzhen Chen**, Yatang Lin, Alysson Oliveira. On Causality and P
  
 Oscar Madrid, Wesley Tansey, **Yanzhen Chen**.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). **To appear in Journal of Machine Learning Research.** [Code](https://github.com/tansey/quantile-regression).
 
-Oscar Madrid and **Yanzhen Chen**.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. **To appear in  The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
-
 Oscar Madrid,  James Sharpnack, **Yanzhen Chen**, Daniela  Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso
 . **Biometrika, Volume 107, Issue 2, June 2020, Pages 293–310.** [Link](https://academic.oup.com/biomet/article-abstract/107/2/293/5717457). [Code](https://github.com/stevenysw/qt_knnfl).
 
+Oscar Madrid and **Yanzhen Chen**.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. **To appear in  The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
 
 ### Working Papers
 
