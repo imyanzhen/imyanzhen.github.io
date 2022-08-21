@@ -28,7 +28,7 @@ My  research interests  include:
 
 ### Published/Accepted papers
 
-**Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Tweet To the Top? Social Media Personal Branding and Career Outcomes.  **MIS Quarterly**, 45.2 (2021).[Non-Technical Video](https://www.youtube.com/watch?v=xvpmZypbJ7w), [Media Coverage by Bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/branding-yourself-on-twitter-works-it-did-in-2012-anyway#xj4y7vzkg), and [Media Coverage by AAAS](https://www.eurekalert.org/news-releases/960251)
+**Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Tweet To the Top? Social Media Personal Branding and Career Outcomes.  **MIS Quarterly**, 45.2 (2021).[A Non-Technical Video](https://www.youtube.com/watch?v=xvpmZypbJ7w), [Media Coverage by Bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/branding-yourself-on-twitter-works-it-did-in-2012-anyway#xj4y7vzkg), and [Media Coverage by AAAS](https://www.eurekalert.org/news-releases/960251)
 
 Sunil Mithas, **Yanzhen Chen**, Chewei Liu, Kunsoo Han. Are Foreign and American Workers Complements or Substitutes? The Case of Information Technology Professionals,  **Accepted by MIS Quarterly**,2022
 
