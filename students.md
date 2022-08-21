@@ -18,11 +18,11 @@ layout: page
 
 + Shanshan Bai (RA -> On the Job Market for 2023)
 
-**Past Students and RAs** 
+**Past Students** 
 
 + Jialiang Li (Mphil Student, HKUST ISOM -> New Jersey Institute of Technology, CS PhD)
 
-+ Siddhartha Datta (BBA Student, HKUST Business -> Oxford, CS PhD, 2019 Summer)
++ Siddhartha Datta (BBA Student, HKUST Business -> Oxford, CS PhD)
 
 + Mengxi He (BBA Student -> UBS, Chief Operating Office)
 
