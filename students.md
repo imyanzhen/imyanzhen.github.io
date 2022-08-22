@@ -24,9 +24,11 @@ layout: page
 
 + Jialiang Li (Mphil Student, HKUST ISOM -> New Jersey Institute of Technology, CS PhD)
 
-+ Siddhartha Datta (BBA Student, HKUST Business -> Oxford, CS PhD)
++ Siddhartha Datta (BBA Student, HKUST Global Business and Information Systems -> Oxford, CS PhD)
 
 + Mengxi He (BBA Student -> UBS, Chief Operating Office)
+
++ Cheuk Yin (Rudolph) Chan -> (BBA Student,  HKUST Business -> Washington University in St. Louis, Econ PhD)
 
 
 
