@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "Yanzhen_Cv_update.pdf", title: "CV", icon: home}
   #- {file: "index.html", title: "Our Team", icon: home}
   - {file: "students.md", title: "Our Team", icon: address-card}
-  - {file: "teaching.md", title: "Smart Contract and Web 3.0 Projects", icon: address-card}
+  - {file: "teaching.md", title: "Smart Contract and Web 3.0 Projects", icon: github}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:imyanzhen@ust.hk"}
