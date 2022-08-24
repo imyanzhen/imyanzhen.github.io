@@ -62,3 +62,17 @@ Oscar Madrid and **Yanzhen Chen**.  Graphon estimation via nearest neighbor algo
 
 <a href="https://clustrmaps.com/site/1bpy1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GqAkpiNYTOrL7fSu0ObUhuK1KMv5TJFr-jQhyTz6Vvw&cl=ffffff" /></a>
 
+### Professional Services and Roles:
+
++ Course Developer for ISOM 3350 (Fintech and Cryptovetures) and Co-Developer for ACCT 5801 (Blockchain Technology)
++ ISOM Department Search and Appointments Committee, 2019-2021
++ Associate Editor, International Conference on Information Systems (ICIS), Blockchain, DLT, and Fintech Track,  2020, 2022 
++ Associate editor, PACIS 2023, Economics of IS Track 
++ Discussant, WISE 2021 
++ Program Committee, Conference on Information Systems and Technology (CIST) 2017, 2019, 2020, 2022 
++ Program Committee, Workshop on Information Technology and Systems (WITS) 2019 
++ Session Chair, DSI 2016 Business Analytics: Information Analytics Session 
++ Reviewer, Journal of Machine Learning Research**JMLR**, Annals of Statistics**AOS**,**Biometrika**  
++ Reviewer, Management Science, MIS Quarterly,  Information Systems Research 
++ Reviewer, Production and Operations Management,**POM** 
+
