@@ -12,6 +12,7 @@ I am  a Tenure-track Assistant Professor in the [Information Systems, Business S
 
 I also [teach classes]({{ site.baseurl }}/teaching/) in FinTech and cryptoventures and introcution to MIS for several different groups of students at HKUST.
 
+###If you're an undergrad or grad student at HKUST, I'm also hiring for part-time/full-time RA work. Shoot me an email if you're interested!
 
 My  research interests  include:
 - Digital Technologies and Social Justice
@@ -58,9 +59,6 @@ Oscar Madrid and **Yanzhen Chen**.  Graphon estimation via nearest neighbor algo
 
 + HKUST-WeBank Joint Lab Project (**HK $750,360**), Programmatic Advertising Retargeting and AI Customer Service, 2019-2023
 
-###If you're an undergrad or grad student at HKUST, I'm also hiring for part-time/full-time RA work. Shoot me an email if you're interested!
-
-<a href="https://clustrmaps.com/site/1bpy1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GqAkpiNYTOrL7fSu0ObUhuK1KMv5TJFr-jQhyTz6Vvw&cl=ffffff" /></a>
 
 ### Professional Services and Roles:
 
@@ -72,7 +70,8 @@ Oscar Madrid and **Yanzhen Chen**.  Graphon estimation via nearest neighbor algo
 + Program Committee, Conference on Information Systems and Technology (CIST) 2017, 2019, 2020, 2022 
 + Program Committee, Workshop on Information Technology and Systems (WITS) 2019 
 + Session Chair, DSI 2016 Business Analytics: Information Analytics Session 
-+ Reviewer, Journal of Machine Learning Research**JMLR**, Annals of Statistics**AOS**,**Biometrika**  
++ Reviewer, Journal of Machine Learning Research **JMLR**, Annals of Statistics **AOS**, **Biometrika**  
 + Reviewer, Management Science, MIS Quarterly,  Information Systems Research 
-+ Reviewer, Production and Operations Management,**POM** 
++ Reviewer, Production and Operations Management, **POM** 
 
+<a href="https://clustrmaps.com/site/1bpy1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GqAkpiNYTOrL7fSu0ObUhuK1KMv5TJFr-jQhyTz6Vvw&cl=ffffff" /></a>
