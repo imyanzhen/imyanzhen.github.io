@@ -12,7 +12,7 @@ I am  a Tenure-track Assistant Professor in the [Information Systems, Business S
 
 I also [teach classes]({{ site.baseurl }}/teaching/) in FinTech and cryptoventures and introcution to MIS for several different groups of students at HKUST.
 
-###If you're an undergrad or grad student at HKUST, I'm also hiring for part-time/full-time RA work. Shoot me an email if you're interested!
+### If you're an undergrad or grad student at HKUST, I'm also hiring for part-time/full-time RA work. Shoot me an email if you're interested!
 
 My  research interests  include:
 - Digital Technologies and Social Justice
