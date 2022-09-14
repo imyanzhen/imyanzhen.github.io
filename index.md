@@ -44,6 +44,7 @@ Oscar Madrid and **Yanzhen Chen**.  Graphon estimation via nearest neighbor algo
 
 ### Working Papers
 Arun Rai, **Yanzhen Chen**, Yatang Lin. Exclusion and Embrace on Gig Platforms: Roles of Background Check Laws, Digitally-Enabled Solutions, and Community Resources
+
 **Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Conversation Analytics: Can Machines Read between the Lines in Real-Time Strategic Conversations?  
 
 
