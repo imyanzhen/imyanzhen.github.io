@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yanzhen Chen
+title: Welcome!
 ---
 
 <img src="{{ site.baseurl }}/img/yanzhenchen.jpg" width="200" height="500" ALIGN="right" style="margin:10px 15px"/>
