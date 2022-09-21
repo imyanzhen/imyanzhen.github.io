@@ -7,7 +7,7 @@ title: Welcome!
 
 
 
-I am  a Tenure-track Assistant Professor in the [Information Systems, Business Statistics and Operations Management at HKUST](https://isom.hkust.edu.hk/). I received my Ph.D. from the University of Texas at Austin. My research focuses on the future of labor markets, FinTech, health IT and statistical learning. My studies have been published in MIS Quarterly, POM and featured by Bloomberg Businessweek. I have been invited to present her work to the Federal Reserve Bank at Philadelphia and the Office of the Comptroller of the Currency, U.S. Department of Treasury. I also have methodological work published in premier journals of statistics, such as Biometrika, JMLR, etc. My Erdős number is 3.
+I am  a Tenure-track Assistant Professor in the [Information Systems, Business Statistics and Operations Management at HKUST](https://isom.hkust.edu.hk/). I received my Ph.D. from the University of Texas at Austin. My research focuses on the future of labor markets, FinTech, health IT and statistical learning. My studies have been published in MIS Quarterly, POM and featured by Bloomberg Businessweek. I have been invited to present my work to the Federal Reserve Bank at Philadelphia and the Office of the Comptroller of the Currency, U.S. Department of Treasury. I also have methodological work published in premier journals of statistics, such as Biometrika, JMLR, etc. My Erdős number is 3.
 
 
 I also [teach classes]({{ site.baseurl }}/teaching/) in FinTech and cryptoventures and introcution to MIS for several different groups of students at HKUST.
@@ -73,8 +73,8 @@ Arun Rai, **Yanzhen Chen**, Yatang Lin. Exclusion and Embrace on Gig Platforms: 
 + Discussant, WISE 2021 
 + Program Committee, Conference on Information Systems and Technology (CIST) 2017, 2019, 2020, 2022 
 + Program Committee, Workshop on Information Technology and Systems (WITS) 2019 
-+ Reviewer, Journal of Machine Learning Research **JMLR**, Annals of Statistics **AOS**, **Biometrika**  
++ Reviewer, Journal of Machine Learning Research **(JMLR)**, Annals of Statistics **(AOS)**, **Biometrika**  
 + Reviewer, Management Science, MIS Quarterly,  Information Systems Research 
-+ Reviewer, Production and Operations Management, **POM** 
++ Reviewer, Production and Operations Management, **(POM)** 
 
 <a href="https://clustrmaps.com/site/1bpy1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GqAkpiNYTOrL7fSu0ObUhuK1KMv5TJFr-jQhyTz6Vvw&cl=ffffff" /></a>
