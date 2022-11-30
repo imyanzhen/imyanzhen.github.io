@@ -42,10 +42,7 @@ Oscar Madrid,  James Sharpnack, **Yanzhen Chen**, Daniela  Witten.  Adaptive Non
 
 Oscar Madrid and **Yanzhen Chen**.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. **Accepted by The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
 
-### Working Papers
 
-
-**Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Conversation Analytics: Can Machines Read between the Lines in Real-Time Strategic Conversations?  
 
 
 ### Grants:
