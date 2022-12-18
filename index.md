@@ -68,7 +68,7 @@ Oscar Madrid and **Yanzhen Chen**.  Graphon estimation via nearest neighbor algo
 + Ph.D. Qualication Exam Evaluator 2019, 2021
 + Best Associate Editor, 2022 International Conference on Information Systems (ICIS), Blockchain Track
 + Associate Editor, International Conference on Information Systems (ICIS), Blockchain, DLT, and Fintech Track,  2020, 2022 
-+ Associate editor, PACIS 2023, Economics of IS Track 
++ Associate Editor, PACIS 2023, Economics of IS Track 
 + Discussant, WISE 2021 
 + Program Committee, Conference on Information Systems and Technology (CIST) 2017, 2019, 2020, 2022 
 + Program Committee, Workshop on Information Technology and Systems (WITS) 2019 
