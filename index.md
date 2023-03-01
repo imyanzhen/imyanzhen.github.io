@@ -27,7 +27,7 @@ My  research interests  include:
 
 
 
-### Published/Accepted papers
+### Published/Accepted Papers
 
 **Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Tweet To the Top? Social Media Personal Branding and Career Outcomes.  **MIS Quarterly**, 45.2 (2021).[A Non-Technical Video](https://www.youtube.com/watch?v=xvpmZypbJ7w), [Media Coverage by Bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/branding-yourself-on-twitter-works-it-did-in-2012-anyway#xj4y7vzkg), [Media Coverage by AAAS](https://www.eurekalert.org/news-releases/960251) and [Media Coverage in Chinese (香港经济日报)](https://paper.hket.com/article/3400983/%E7%A4%BE%E5%AA%92%E5%BB%BA%E5%80%8B%E4%BA%BA%E5%93%81%E7%89%8C%20%E6%94%80%E5%B0%B1%E6%A5%AD%E9%9A%8E%E6%A2%AF%E9%A0%82%E5%B3%B0?mtc=h0003)
 
@@ -42,8 +42,9 @@ Oscar Madrid,  James Sharpnack, **Yanzhen Chen**, Daniela  Witten.  Adaptive Non
 
 Oscar Madrid and **Yanzhen Chen**.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. **Accepted by The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
 
+### Working Papers
 
-
+Arun Rai, **Yanzhen Chen** and Yatang Lin. Exclusion for Public Safety or Inclusion for Gig Employment Opportunity:  Redefining the Tension with a Trilogy of Guardians
 
 ### Grants:
 **PI** 
