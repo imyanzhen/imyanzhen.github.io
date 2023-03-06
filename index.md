@@ -31,11 +31,11 @@ My  research interests  include:
 
 **Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Tweet To the Top? Social Media Personal Branding and Career Outcomes.  **MIS Quarterly**, 45.2 (2021).[A Non-Technical Video](https://www.youtube.com/watch?v=xvpmZypbJ7w), [Media Coverage by Bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/branding-yourself-on-twitter-works-it-did-in-2012-anyway#xj4y7vzkg), [Media Coverage by AAAS](https://www.eurekalert.org/news-releases/960251) and [Media Coverage in Chinese (香港经济日报)](https://paper.hket.com/article/3400983/%E7%A4%BE%E5%AA%92%E5%BB%BA%E5%80%8B%E4%BA%BA%E5%93%81%E7%89%8C%20%E6%94%80%E5%B0%B1%E6%A5%AD%E9%9A%8E%E6%A2%AF%E9%A0%82%E5%B3%B0?mtc=h0003)
 
-Sunil Mithas, **Yanzhen Chen**, Chewei Liu, Kunsoo Han. Are Foreign and American Workers Complements or Substitutes? The Case of Information Technology Professionals,  **Accepted by MIS Quarterly**,2022
+Sunil Mithas, **Yanzhen Chen**, Chewei Liu, Kunsoo Han. Are Foreign and American Workers Complements or Substitutes? The Case of Information Technology Professionals, **MIS Quarterly** 46.4 (2022).
 
-Sunil Mithas, **Yanzhen Chen**, Yatang Lin, Alysson Oliveira. On Causality and Plausibility of Treatment Effects in Operations Management Research, **Accepted by Production and Operations Management**, 2022.
+Sunil Mithas, **Yanzhen Chen**, Yatang Lin, Alysson Oliveira. On Causality and Plausibility of Treatment Effects in Operations Management Research, **Production and Operations Management** 31.12 (2022): 4558-4571.
  
-Oscar Madrid, Wesley Tansey, **Yanzhen Chen**.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). **Accepted by Journal of Machine Learning Research.** [Code](https://github.com/tansey/quantile-regression).
+Oscar Madrid, Wesley Tansey, **Yanzhen Chen**.  Quantile regression with ReLU Networks: Estimators and minimax rates. **Journal of Machine Learning Research** 23.247 (2022): 1-42. [PDF](https://arxiv.org/pdf/2010.08236.pdf).  [Code](https://github.com/tansey/quantile-regression).
 
 Oscar Madrid,  James Sharpnack, **Yanzhen Chen**, Daniela  Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso
 . **Biometrika**, 107.2 (2020). [Link](https://academic.oup.com/biomet/article-abstract/107/2/293/5717457). [Code](https://github.com/stevenysw/qt_knnfl).
