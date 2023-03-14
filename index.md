@@ -45,6 +45,9 @@ Oscar Madrid and **Yanzhen Chen**.  Graphon estimation via nearest neighbor algo
 ### Working Papers
 
 Arun Rai, **Yanzhen Chen** and Yatang Lin. Exclusion for Public Safety or Inclusion for Gig Employment Opportunity:  Redefining the Tension with a Trilogy of Guardians
+**Yanzhen Chen** and Sunil Mithas. Do Affirmative Action Policies Reduce the Female Wage Gap for Information Technology Professionals? Evidence from India
+Sijia Zhou, **Yanzhen Chen** and Xin Li. More than Demand Propelling: Load Balancing Effects of E-Prescription on Online Healthcare Platforms
+
 
 ### Grants:
 **PI** 
