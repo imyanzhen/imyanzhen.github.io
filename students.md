@@ -11,7 +11,7 @@ layout: page
 
 + Qianqian Zhuang (PhD student, HKUST, Co-supervised with Prof. Allen Huang)
 
-+ Lihang Cui (Mphil student, Co-supervised with Prof. Can Yang)
+
 
 
 **RAs**
@@ -21,6 +21,8 @@ layout: page
 + Shanshan Bai (RA -> On the Job Market for 2023)
 
 **Past Students** 
+
++ Lihang Cui (Mphil student, HKUST FinTech -> CITIC Securities, Investment Banking, Co-supervised with Prof. Can Yang)
 
 + Jialiang Li (Mphil Student, HKUST ISOM -> New Jersey Institute of Technology, CS PhD)
 
