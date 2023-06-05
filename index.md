@@ -50,6 +50,7 @@ Arun Rai, **Yanzhen Chen** and Yatang Lin. Exclusion for Public Safety or Inclus
 
 Sijia Zhou, **Yanzhen Chen** and Xin Li. More than Demand Propelling: Load Balancing Effects of E-Prescription on Online Healthcare Platforms
 
+Che-Wei Liu, **Yanzhen Chen** and Ming-Hui Wen. Alert for Alerts: How Investment Price Tracking Alerts Affect Retail Investors
 
 ### Grants:
 **PI** 
