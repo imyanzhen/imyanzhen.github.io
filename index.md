@@ -52,7 +52,7 @@ Sijia Zhou, **Yanzhen Chen** and Xin Li. More than Demand Propelling: Load Balan
 
 Che-Wei Liu, **Yanzhen Chen** and Ming-Hui Wen. Alert for Alerts: How Investment Price Tracking Alerts Affect Retail Investors
 
-**SSRN's Top Ten download list for: ERN: Market Structure (Topic) as of Jun-13,  2023**
+**SSRN's Top Ten download list for: ERN: Market Structure (Topic) as of Jul 2023**
 
 ### Grants:
 **PI** 
@@ -73,13 +73,13 @@ Che-Wei Liu, **Yanzhen Chen** and Ming-Hui Wen. Alert for Alerts: How Investment
 + Course Developer for ISOM 3350 (Fintech and Cryptovetures) and Co-Developer for ACCT 5801 (Blockchain Technology)
 + The Dean's Recognition of Excellent Teaching in 2019, 2020, 2021 and 2022
 + ISOM Department Search and Appointments Committee, 2019-2021
-+ Ph.D. Qualication Exam Author for Quantitative Research in IS 2020, 2022
-+ Ph.D. Qualication Exam Evaluator 2019, 2021
++ Ph.D. Qualification Exam Author for Quantitative Research in IS 2020, 2022
++ Ph.D. Qualification Exam Evaluator 2019, 2021, 2023
 + Best Associate Editor, 2022 International Conference on Information Systems (ICIS), Blockchain Track
 + Associate Editor, International Conference on Information Systems (ICIS), Blockchain, DLT, and Fintech Track,  2020, 2022 
 + Associate Editor, PACIS 2023, Economics of IS Track 
 + Discussant, WISE 2021 
-+ Program Committee, Conference on Information Systems and Technology (CIST) 2017, 2019, 2020, 2022 
++ Program Committee, Conference on Information Systems and Technology (CIST) 2017, 2019, 2020, 2022, 2023 
 + Program Committee, Workshop on Information Technology and Systems (WITS) 2019 
 + Reviewer, Journal of Machine Learning Research **(JMLR)**, Annals of Statistics **(AOS)**, **Biometrika**  
 + Reviewer, Management Science, MIS Quarterly,  Information Systems Research 
