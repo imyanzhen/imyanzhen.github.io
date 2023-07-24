@@ -40,10 +40,10 @@ Oscar Madrid, Wesley Tansey, **Yanzhen Chen**.  Quantile regression with ReLU Ne
 Oscar Madrid,  James Sharpnack, **Yanzhen Chen**, Daniela  Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso
 . **Biometrika**, 107.2 (2020). [PDF](https://academic.oup.com/biomet/article-abstract/107/2/293/5717457). [Code](https://github.com/stevenysw/qt_knnfl).
 
-Ye, Steven Siwei, **Yanzhen Chen**, and Oscar Madrid. "2d score based estimation of heterogeneous treatment effects."  **To appear in Journal of Causal Inference**.
+Siwei Ye, **Yanzhen Chen**, and Oscar Madrid. "2d score based estimation of heterogeneous treatment effects."  **To appear in Journal of Causal Inference**.
 [Code](https://github.com/stevenysw/causal_pp).
 
-Kei, Yik Lun, **Yanzhen Chen**, and Oscar Hernan Madrid Padilla. "A Partially Separable Model for Dynamic Valued Networks." **Computational Statistics & Data Analysis** (2023): 107811.[PDF](https://www.sciencedirect.com/science/article/pii/S0167947323001226).
+YikLun Kei, **Yanzhen Chen**, and Oscar Madrid. "A Partially Separable Model for Dynamic Valued Networks." **Computational Statistics & Data Analysis** (2023): 107811.[PDF](https://www.sciencedirect.com/science/article/pii/S0167947323001226).
 
 Oscar Madrid and **Yanzhen Chen**.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. **Accepted by The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
 
@@ -82,12 +82,14 @@ Che-Wei Liu, **Yanzhen Chen** and Ming-Hui Wen. Alert for Alerts: How Investment
 + Ph.D. Qualification Exam Evaluator 2019, 2021, 2023
 + Best Associate Editor, 2022 International Conference on Information Systems (ICIS), Blockchain Track
 + Associate Editor, International Conference on Information Systems (ICIS), Blockchain, DLT, and Fintech Track,  2020, 2022 
-+ Associate Editor, PACIS 2023, Economics of IS Track 
++ Associate Editor, PACIS 2023, Economics of IS Track
++ Associate Editor, International Conference on Smart Finance (ICSF), 2022
 + Discussant, WISE 2021 
 + Program Committee, Conference on Information Systems and Technology (CIST) 2017, 2019, 2020, 2022, 2023 
 + Program Committee, Workshop on Information Technology and Systems (WITS) 2019 
 + Reviewer, Journal of Machine Learning Research **(JMLR)**, Annals of Statistics **(AOS)**, **Biometrika**  
 + Reviewer, Management Science, MIS Quarterly,  Information Systems Research 
-+ Reviewer, Production and Operations Management, **(POM)** 
++ Reviewer, Production and Operations Management, **(POM)**
++ Corporate Projects with Cyberport Start-ups for 2023 Spring, collaborating with Super Cat Technology Limited
 
 <a href="https://clustrmaps.com/site/1bpy1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GqAkpiNYTOrL7fSu0ObUhuK1KMv5TJFr-jQhyTz6Vvw&cl=ffffff" /></a>
