@@ -57,7 +57,7 @@ Sijia Zhou, **Yanzhen Chen** and Xin Li. More than Demand Propelling: Load Balan
 
 Che-Wei Liu, **Yanzhen Chen** and Ming-Hui Wen. Alert for Alerts: How Investment Price Tracking Alerts Affect Retail Investors
 
-**SSRN's Top Ten download list for: ERN: Market Structure (Topic) as of Jul 2023** [Media Coverage] (https://www.wealthmanagement.com/technology/dark-side-financial-technology-tools)
+**SSRN's Top Ten download list for: ERN: Market Structure (Topic) as of Jul 2023** [Media Coverage]([https://www.eurekalert.org/news-releases/960251](https://www.wealthmanagement.com/technology/dark-side-financial-technology-tools)
 
 ### Grants:
 **PI** 
