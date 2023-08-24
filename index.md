@@ -49,13 +49,13 @@ My  research interests  include:
 
 ### Working Papers
 
-+Arun Rai, **Yanzhen Chen** and Yatang Lin. Exclusion for Public Safety or Inclusion for Gig Employment Opportunity:  Redefining the Tension with a Trilogy of Guardians
++ Arun Rai, **Yanzhen Chen** and Yatang Lin. Exclusion for Public Safety or Inclusion for Gig Employment Opportunity:  Redefining the Tension with a Trilogy of Guardians
 
-+**Yanzhen Chen** and Sunil Mithas. Do Affirmative Action Policies Reduce the Female Wage Gap for Information Technology Professionals? Evidence from India
++ **Yanzhen Chen** and Sunil Mithas. Do Affirmative Action Policies Reduce the Female Wage Gap for Information Technology Professionals? Evidence from India
 
-+Sijia Zhou, **Yanzhen Chen** and Xin Li. More than Demand Propelling: Load Balancing Effects of E-Prescription on Online Healthcare Platforms
++ Sijia Zhou, **Yanzhen Chen** and Xin Li. More than Demand Propelling: Load Balancing Effects of E-Prescription on Online Healthcare Platforms
 
-+Che-Wei Liu, **Yanzhen Chen** and Ming-Hui Wen. Alert for Alerts: How Investment Price Tracking Alerts Affect Retail Investors. [Media Coverage](https://www.wealthmanagement.com/technology/dark-side-financial-technology-tools) **SSRN's Top Ten download list for: ERN: Market Structure (Topic) as of Jul 2023** 
++ Che-Wei Liu, **Yanzhen Chen** and Ming-Hui Wen. Alert for Alerts: How Investment Price Tracking Alerts Affect Retail Investors. [Media Coverage](https://www.wealthmanagement.com/technology/dark-side-financial-technology-tools) **SSRN's Top Ten download list for: ERN: Market Structure (Topic) as of Jul 2023** 
 
 ### Grants:
 **PI** 
