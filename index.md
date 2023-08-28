@@ -55,7 +55,9 @@ My  research interests  include:
 
 + Sijia Zhou, **Yanzhen Chen** and Xin Li. More than Demand Propelling: Load Balancing Effects of E-Prescription on Online Healthcare Platforms
 
-+ Che-Wei Liu, **Yanzhen Chen** and Ming-Hui Wen. Alert for Alerts: How Investment Price Tracking Alerts Affect Retail Investors. [Media Coverage](https://www.wealthmanagement.com/technology/dark-side-financial-technology-tools) **SSRN's Top Ten download list for: ERN: Market Structure (Topic) as of Jul 2023** 
++ Che-Wei Liu, **Yanzhen Chen** and Ming-Hui Wen. Alert for Alerts: How Investment Price Tracking Alerts Affect Retail Investors. [Media Coverage](https://www.wealthmanagement.com/technology/dark-side-financial-technology-tools) **SSRN's Top Ten download list for: ERN: Market Structure (Topic) as of Jul 2023**
+
++ Sunil Mithas, **Yanzhen Chen**, Che-Wei Liu, and Michael Kimbrough. How Information Technology Investments Influence Quality of Management Forecasts: Evidence from the United States
 
 ### Grants:
 **PI** 
