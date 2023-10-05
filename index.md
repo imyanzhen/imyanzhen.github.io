@@ -75,8 +75,8 @@ My  research interests  include:
 
 ### Professional Services and Roles:
 
- + Course Developer for ISOM 3350 (Fintech and Cryptovetures) and Co-Developer for ACCT 5801 (Blockchain Technology)
-+ The Dean's Recognition of Excellent Teaching in 2019, 2020, 2021 and 2022
+- Course Developer for ISOM 3350 (Fintech and Cryptovetures) and Co-Developer for ACCT 5801 (Blockchain Technology)
+ - The Dean's Recognition of Excellent Teaching in 2019, 2020, 2021 and 2022
 + ISOM Department Search and Appointments Committee, 2019-2021
 + Ph.D. Qualification Exam Author for Quantitative Research in IS 2020, 2022
 + Ph.D. Qualification Exam Evaluator 2019, 2021, 2023
