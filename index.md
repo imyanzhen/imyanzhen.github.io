@@ -73,23 +73,41 @@ My  research interests  include:
 + HKUST-WeBank Joint Lab Project (**HK $750,360**), Programmatic Advertising Retargeting and AI Customer Service, 2019-2023
 
 
-### Professional Services and Roles:
+### Services and Roles:
 
-- Course Developer for ISOM 3350 (Fintech and Cryptovetures) and Co-Developer for ACCT 5801 (Blockchain Technology)
- - The Dean's Recognition of Excellent Teaching in 2019, 2020, 2021 and 2022
-+ ISOM Department Search and Appointments Committee, 2019-2021
-+ Ph.D. Qualification Exam Author for Quantitative Research in IS 2020, 2022
-+ Ph.D. Qualification Exam Evaluator 2019, 2021, 2023
-+ Best Associate Editor, 2022 International Conference on Information Systems (ICIS), Blockchain Track
-+ Associate Editor, International Conference on Information Systems (ICIS), Blockchain, DLT, and Fintech Track,  2020, 2022 
-+ Associate Editor, PACIS 2023, Economics of IS Track
-+ Associate Editor, International Conference on Smart Finance (ICSF), 2022
-+ Discussant, WISE 2021 
-+ Program Committee, Conference on Information Systems and Technology (CIST) 2017, 2019, 2020, 2022, 2023 
-+ Program Committee, Workshop on Information Technology and Systems (WITS) 2019 
-+ Reviewer, Journal of Machine Learning Research **(JMLR)**, Annals of Statistics **(AOS)**, **Biometrika**  
-+ Reviewer, Management Science, MIS Quarterly,  Information Systems Research 
-+ Reviewer, Production and Operations Management, **(POM)**
-+ Corporate Projects with Cyberport Start-ups for 2023 Spring, collaborating with Super Cat Technology Limited
+**Teaching**
+
++ Course Developer for ISOM 3350 (Fintech and Cryptovetures) and Co-Developer for ACCT 5801 (Blockchain Technology)
+
+
+**Internal Services**
+
+	+ Executive Committee Member, HKUST Institute for Emerging Market Studies, 2018-2020
+	+ ISOM Department Search and Appointments Committee, 2019-2021
+	+ ISOM Department Search Interviews, 2017- 2021
+	+ Mphil Advisor for Lucy Zhao and Lihang Cui
+	+ HKUST Mainland Undergraduate Admission Interview in Beijing, 2018, 2020
+	+ Sample Class Instructor for HKUST Business Summer Camp, 2018
+	+ MSc Program Committee 2022-2023
+	+ Contributed to two issues of HKUST Business School Magazine Biz@HKUST
+	+ MScISM Corporate Projects with Cyberport Start-ups for 2023 Spring, collaborating with Super Cat Technology Limited
+	+ Presented at BizInsight@HKUST, to MBA alumni and the industry, on how the development of the Internet and social media has affected the online labor market
+
+
+**Professional Services**
+
+	+ Guest Associate Editor, ACM Transactions on Management Information Systems, Special Issue on IT-enabled Business Management and Decision Making in (Post) Covid-19 Era
+	+ Best Associate Editor, 2022 International Conference on Information Systems (ICIS), Blockchain Track
+	+ Associate Editor, International Conference on Smart Finance (ICSF), 2022
+	+ Associate Editor, International Conference on Information Systems (ICIS), Blockchain, DLT, and Fintech Track,  2020
+	+ Associate editor, PACIS 2023, Economics of IS Track 
+	+ WISE discussant, 2021
+	+ Program Committee, Conference on Information Systems and Technology (CIST) 2017, 2019, 2020, 2022 
+	+ Program Committee, Workshop on Information Technology and Systems (WITS) 2019 
+	+ Session Chair, DSI 2016 Business Analytics: Information Analytics Session 
+	+ Reviewer, Journal of Machine Learning Research **JMLR**, Annals of Statistics **AOS**, **Biometrika**  
+	+ Reviewer, Management Science, MIS Quarterly,  Information Systems Research 
+	+ Reviewer, Production and Operations Management, **POM**  
+
 
 <a href="https://clustrmaps.com/site/1bpy1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GqAkpiNYTOrL7fSu0ObUhuK1KMv5TJFr-jQhyTz6Vvw&cl=ffffff" /></a>
