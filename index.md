@@ -49,7 +49,7 @@ My  research interests  include:
 
 ### Working Papers
 
-+ Arun Rai, **Yanzhen Chen** and Yatang Lin. Exclusion for Public Safety or Inclusion for Gig Employment Opportunity:  Redefining the Tension with a Trilogy of Guardians
++ Arun Rai, **Yanzhen Chen** and Yatang Lin. Exclusion for Public Safety or Inclusion for Gig Employment: Managing the Tension with a Trilogy of Guardians
 
 + **Yanzhen Chen** and Sunil Mithas. Do Affirmative Action Policies Reduce the Female Wage Gap for Information Technology Professionals? Evidence from India
 
@@ -82,16 +82,16 @@ My  research interests  include:
 
 **Internal Services**
 
-	+ Executive Committee Member, HKUST Institute for Emerging Market Studies, 2018-2020
-	+ ISOM Department Search and Appointments Committee, 2019-2021
-	+ ISOM Department Search Interviews, 2017- 2021
-	+ Mphil Advisor for Lucy Zhao and Lihang Cui
-	+ HKUST Mainland Undergraduate Admission Interview in Beijing, 2018, 2020
-	+ Sample Class Instructor for HKUST Business Summer Camp, 2018
-	+ MSc Program Committee 2022-2023
-	+ Contributed to two issues of HKUST Business School Magazine Biz@HKUST
-	+ MScISM Corporate Projects with Cyberport Start-ups for 2023 Spring, collaborating with Super Cat Technology Limited
-	+ Presented at BizInsight@HKUST, to MBA alumni and the industry, on how the development of the Internet and social media has affected the online labor market
++ Executive Committee Member, HKUST Institute for Emerging Market Studies, 2018-2020
++ ISOM Department Search and Appointments Committee, 2019-2021
++ ISOM Department Search Interviews, 2017- 2021
++ Mphil Advisor for Lucy Zhao and Lihang Cui
++ HKUST Mainland Undergraduate Admission Interview in Beijing, 2018, 2020
++ Sample Class Instructor for HKUST Business Summer Camp, 2018
++ MSc Program Committee 2022-2023
++ Contributed to two issues of HKUST Business School Magazine Biz@HKUST
++ MScISM Corporate Projects with Cyberport Start-ups for 2023 Spring, collaborating with Super Cat Technology Limited
++ Presented at BizInsight@HKUST, to MBA alumni and the industry, on how the development of the Internet and social media has affected the online labor market
 
 
 **Professional Services**
