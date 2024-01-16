@@ -34,6 +34,8 @@ My  research interests  include:
 + Sunil Mithas, **Yanzhen Chen**, Chewei Liu, Kunsoo Han. Are Foreign and American Workers Complements or Substitutes? The Case of Information Technology Professionals, **MIS Quarterly** 46.4 (2022).
 
 + Sunil Mithas, **Yanzhen Chen**, Yatang Lin, Alysson Oliveira. On Causality and Plausibility of Treatment Effects in Operations Management Research, **Production and Operations Management** 31.12 (2022): 4558-4571.
+
++ Arun Rai, **Yanzhen Chen** and Yatang Lin. Exclusion for Public Safety or Inclusion for Gig Employment: Managing the Tension with a Trilogy of Guardians, accepted by **MIS Quarterly**
  
 + Oscar Madrid, Wesley Tansey, **Yanzhen Chen**.  Quantile regression with ReLU Networks: Estimators and minimax rates. **Journal of Machine Learning Research** 23.247 (2022): 1-42. [PDF](https://arxiv.org/pdf/2010.08236.pdf).  [Code](https://github.com/tansey/quantile-regression).
 
@@ -48,8 +50,6 @@ My  research interests  include:
 + Oscar Madrid and **Yanzhen Chen**.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. **Accepted by The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
 
 ### Working Papers
-
-+ Arun Rai, **Yanzhen Chen** and Yatang Lin. Exclusion for Public Safety or Inclusion for Gig Employment: Managing the Tension with a Trilogy of Guardians
 
 + **Yanzhen Chen** and Sunil Mithas. Do Affirmative Action Policies Reduce the Female Wage Gap for Information Technology Professionals? Evidence from India
 
