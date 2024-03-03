@@ -65,6 +65,7 @@ My  research interests  include:
 + Early Career Scheme (**HK $553,000**), Speak without Speaking: Stock Prices and the FOMC Press Conferences, Hong Kong Research Grants Council, 2019-2022
 + IEMS Research Grants (**HK $168,000**), Social Impacts of Sharing Economy, Co-PI with Yatang Lin, HKUST Institute for Emerging Market Studies, 2018-2020
 + University Initial Grant (**HK $100,000**), HKUST, 2017
++ Education and Generative Artificial Intelligence (EDGE-AI), Intelligent Entrepreneurs: The Trilogy of Teaching, Learning, and AI-Driven Journey to Business Mastery (**HK $95,000**), HKUST, 2023
 
 **Co-I**
 
