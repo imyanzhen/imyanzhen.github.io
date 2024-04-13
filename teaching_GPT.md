@@ -1,32 +1,39 @@
 ---
-title:  "Designing a Social Platform with NFT Rewards for User Engagement"
+title:  "Generative AI for Equity Research Reports"
 mathjax: true
 layout: post
-categories: media
+categories: GPT
 ---
 <img src="{{ site.baseurl }}/img/teaching_img/2022_03.JPG" width="600" height="2000" class="center" style="margin:10px 15px"/>
 
-[Slides](https://www.dropbox.com/s/byipjp34abjfze3/projectgroup3_94693_6218972_Presentation%20slides.pptx?dl=0)
+[Slides](https://www.dropbox.com/scl/fo/dlyfdfu62z1wtqgdvy3ow/AF8Lsio1RALfsBsT7mb6cEA?rlkey=471l3ruhd9p0zjgmv7bvnt3z8&dl=0)
+[Notes](https://www.dropbox.com/scl/fi/s0qm4f1td2bsofh4xh2m7/Group9_Option1.pptx?rlkey=zmna8tvzg7ul46x5pygh8623l&dl=0)
+[Code and Data](https://www.dropbox.com/scl/fo/dlyfdfu62z1wtqgdvy3ow/AF8Lsio1RALfsBsT7mb6cEA?rlkey=471l3ruhd9p0zjgmv7bvnt3z8&dl=0)
 
-[Solidity Code](https://www.dropbox.com/sh/wdjyaubn8ps906y/AAAQneaYkGkrFv9J2DGf1Q4Ja?dl=0)
-
-[Code Demo Video](https://www.dropbox.com/s/af79cv3vz4qe61j/projectgroup3_94693_6218973_video2307048001.mp4?dl=0)
 
 * This is a sample material from and for ISOM 3350 FinTech and Cryptoventure course use. Please reach out for a proper citing and circulating of the work when needed.
 
-## Executive Summary
+Whitepapers are critical in providing a detailed business description and STO specifics to potential investors, yet many companies struggle to produce effective documents. To address this, we propose leveraging ChatGPT, a generative AI tool, to fine-tune a GPT model that enhances the quality of STO whitepapers.
 
-This proposal outlines the launch of an innovative application, Happy Walking, which utilizes a play-to-earn system built on smart contracts to promote physical activity. Participants will be rewarded with a proprietary token (WALK), for leading an active lifestyle. As users engage in walking or jogging, they can accrue WALK tokens through NFTs, represented as virtual shoes. These tokens can be exchanged for other NFT items or converted to Ethereum, offering a tangible financial incentive.
+## Project Goals:
 
-Furthermore, the platform incorporates a social dimension, encouraging users to connect and exercise with friends for additional rewards. This social aspect is designed to foster community and enhance user interaction within the app.
+**Structural and Persuasive Whitepapers:** We aim to create whitepapers that are not only structurally comprehensive but also maintain the correct tone and sentiment—concise, confident, and optimistic. Our analysis of existing documents reveals issues with tone, with some being too informal or negatively focused on challenges. Our enhanced ChatGPT model will ensure whitepapers are appropriately persuasive and positive.
 
-### Background
+**Clarifying Technical Details:** Many STO whitepapers contain technical jargon that is not reader-friendly, particularly for non-experts. This can deter potential investors. Our model will focus on explaining complex technical details in an accessible manner, increasing the overall appeal and effectiveness of the whitepapers.
 
-Smart contracts, known for their immutable, secure, and transparent nature, are the backbone of this system. With the COVID-19 pandemic contributing to a sedentary lifestyle due to increased indoor confinement and discomfort associated with exercising in masks, there is a pressing need to motivate regular physical activity.
+**Effective Marketing and Promotion:** Whitepapers serve crucial marketing and promotional roles, sparking investor interest in STOs. However, the significant time and effort required to produce detailed whitepapers can be a barrier. Our trained AI model aims to alleviate this by generating comprehensive, well-written documents efficiently, enabling companies to better utilize their resources for marketing and promotional activities.
 
-The World Health Organization has noted a significant rise in obesity rates, a preventable condition linked to several serious health issues. Our system aims to counter this by incentivizing daily exercise, leveraging the burgeoning popularity of NFTs. This endeavor not only supports individual health but presents an attractive venture for the sports industry, laying the groundwork for a viable business model.
+By addressing these gaps, we hope to significantly improve the utility and effectiveness of STO whitepapers, making them more appealing to potential investors and supporting companies in their fundraising efforts.
 
-The application’s dual focus on health and earnings through NFTs, particularly in the context of walking—a universally accessible activity—holds the potential to resonate widely. We anticipate that this innovative blend of technology and wellness will propel us towards a healthier society.
+### Model Evaluation
 
-### Our Solution
-<img src="{{ site.baseurl }}/img/teaching_img/2022_03_2.JPG" width="600" height="2000" class="center" style="margin:10px 15px"/>
+Our project entails fine-tuning two distinct models using varied datasets for STO whitepapers. Model 1 was refined solely with 7 Company STO whitepapers, while Model 2 included a diverse set, with 7 Company STO whitepapers, 4 Investment Vehicle STO whitepapers, and 4 Company ICO whitepapers.
+
+We evaluated these models using a test set consisting of a Scientificcoin STO Whitepaper. We assessed GPT-3 Davinci alongside our two tailored models using six carefully crafted prompts designed to encapsulate five crucial sections: the introduction, market analysis, company overview, token overview, and STO details.
+
+The parameter settings were calibrated to mirror the test set completions in terms of content length. We applied a frequency and presence penalty of 0.5 to encourage diverse outputs. The temperature was set to 0.3 for the introduction to foster precision, and 0.5 for the remaining sections to balance creativity and relevance. The performance is listed in the table below. Note: F, P and T stand for frequency penalty, presence penalty and temperature respectively.
+
+Finally we compare readiblity, word complixity and sentiment of white paper our model generated with human generated ones.
+
+
+<img src="{{ site.baseurl }}/img/teaching_img/2023_05_02.JPG" width="600" height="2000" class="center" style="margin:10px 15px"/>
