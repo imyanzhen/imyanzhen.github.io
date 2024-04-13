@@ -1,5 +1,5 @@
 ---
-title:  "Generative AI for Equity Research Reports"
+title:  "Generative AI for NFT White Papers"
 mathjax: true
 layout: post
 categories: GPT
