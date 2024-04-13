@@ -4,7 +4,6 @@ mathjax: true
 layout: post
 categories: GPT
 ---
-<img src="{{ site.baseurl }}/img/teaching_img/2022_03.JPG" width="600" height="2000" class="center" style="margin:10px 15px"/>
 
 [Slides](https://www.dropbox.com/scl/fo/dlyfdfu62z1wtqgdvy3ow/AF8Lsio1RALfsBsT7mb6cEA?rlkey=471l3ruhd9p0zjgmv7bvnt3z8&dl=0)
 [Notes](https://www.dropbox.com/scl/fi/s0qm4f1td2bsofh4xh2m7/Group9_Option1.pptx?rlkey=zmna8tvzg7ul46x5pygh8623l&dl=0)
