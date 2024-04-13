@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "index.html", title: "Our Team", icon: home}
   - {file: "students.md", title: "Our Team"}
   - {file: "teaching.md", title: "Smart Contract and Web 3.0 Projects"}
-  - {url: "imyanzhen.github.io/_posts/2023_02.md", title: "Equity Analyst GPT"}
+  - {file: "teaching_GPT.md", title: "Equity Analyst GPT"}
   #- {file: "teaching.md", title: "Smart Contract and Web 3.0 Projects", icon: github}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
