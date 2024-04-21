@@ -20,6 +20,8 @@ layout: page
 
 + Shanshan Bai (RA -> On the Job Market for 2023)
 
++ Haijing Zong (RA -> Univ of Seattle, Econ Phd)
+
 **Past Students** 
 
 + Lihang Cui (Mphil student, HKUST FinTech -> CITIC Securities, Investment Banking, Co-supervised with Prof. Can Yang)
