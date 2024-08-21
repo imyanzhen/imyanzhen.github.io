@@ -33,7 +33,7 @@ My  research interests  include:
 
 + **Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Tweet To the Top? Social Media Personal Branding and Career Outcomes.  **MIS Quarterly**, 45.2 (2021).[A Non-Technical Video](https://www.youtube.com/watch?v=xvpmZypbJ7w), [Media Coverage by Bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/branding-yourself-on-twitter-works-it-did-in-2012-anyway#xj4y7vzkg), [Media Coverage by AAAS](https://www.eurekalert.org/news-releases/960251), [Media Coverage by South China Morning Post](https://www.scmp.com/presented/business/topics/hkust-biz-school-magazine/article/3011484/role-internet-labor-markets), [Media Coverage by SCMP](https://www.scmp.com/presented/business/topics/online-practices-changing-world-work/article/2152920/online-practices) and [Media Coverage in Chinese (香港经济日报)](https://paper.hket.com/article/3400983/%E7%A4%BE%E5%AA%92%E5%BB%BA%E5%80%8B%E4%BA%BA%E5%93%81%E7%89%8C%20%E6%94%80%E5%B0%B1%E6%A5%AD%E9%9A%8E%E6%A2%AF%E9%A0%82%E5%B3%B0?mtc=h0003)
 
-+ Sunil Mithas, **Yanzhen Chen**, Chewei Liu, Kunsoo Han. Are Foreign and American Workers Complements or Substitutes? The Case of Information Technology Professionals, **MIS Quarterly** 46.4 (2022).
++ Sunil Mithas, **Yanzhen Chen**, Chewei Liu, Kunsoo Han. Are foreign and domestic information technology professionals complements or substitutes?, **MIS Quarterly** 46.4 (2022).
 
 + Sunil Mithas, **Yanzhen Chen**, Yatang Lin, Alysson Oliveira. On Causality and Plausibility of Treatment Effects in Operations Management Research, **Production and Operations Management** 31.12 (2022): 4558-4571.
 
