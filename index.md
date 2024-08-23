@@ -61,6 +61,8 @@ My  research interests  include:
  
 + Sunil Mithas, **Yanzhen Chen**, Che-Wei Liu, and Michael Kimbrough. How Information Technology Investments Influence Quality of Management Forecasts: Evidence from the United States
 
++ Oscar Madrid, **Yanzhen Chen**, Gabriel Ruiz. A causal fused lasso for interpretable heterogeneous treatment effects estimation. 
+
 ### Grants:
 **PI** 
 
