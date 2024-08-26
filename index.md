@@ -77,7 +77,7 @@ My  research interests  include:
 
 + HKUST-WeBank Joint Lab Project (**HK $750,360**), Programmatic Advertising Retargeting and AI Customer Service, 2019-2023
 
-+ The Hidden Dynamics:Collusion Between Sell-Side Analysts and Fund Managers, National Natural Science Foundation of China (Grant No. 72472171) (卖方分析师与基金经理利益互换的实现机制与经济后果)
++ The Hidden Dynamics:Collusion Between Sell-Side Analysts and Fund Managers, National Science Foundation of China (Grant No. 72472171) (卖方分析师与基金经理利益互换的实现机制与经济后果)
   
 ### Services and Roles:
 
