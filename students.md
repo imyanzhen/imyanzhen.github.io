@@ -1,5 +1,5 @@
 ---
-title: "Our Team"
+title: "My Team"
 permalink: "/students/"
 layout: page
 ---
@@ -9,15 +9,15 @@ layout: page
 
 **Current Students**
 
-+ Qianqian Zhuang (PhD student, HKUST, Co-supervised with Prof. Allen Huang)
++ Qianqian Zhuang (PhD student, HKUST, Co-supervising with Prof. Allen Huang)
 
 
 
 
 **RAs**
 
-+ Xiang Li (RA -> Univ of Bristol IS PhD)
-+ Shanshan Bai (RA -> On the Job Market for 2023)
++ Xiang Li (RA -> University of Melbourne, Marketing PhD)
++ Shanshan Bai (RA -> On the IS Job Market for 2024)
 + Haijing Zong (RA -> Univ of Washington at Seattle, Econ PhD)
 
 **Past Students** 
