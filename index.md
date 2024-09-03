@@ -7,8 +7,8 @@ title: Welcome!
 
 
 
-I am  a Tenure-track Assistant Professor in the [Information Systems, Business Statistics and Operations Management at HKUST](https://isom.hkust.edu.hk/). I received my Ph.D. from the University of Texas at Austin. My research focuses on the future of labor markets, FinTech, health IT and statistical learning. My studies have been published in MIS Quarterly, ISR, POM and featured by Bloomberg Businessweek and CNBC Professional. I have been invited to present my work to the Federal Reserve Bank at Philadelphia and the Office of the Comptroller of the Currency, U.S. Department of Treasury. I also have methodological work published in premier journals of machine learning and statistics, such as Biometrika, JMLR, etc. My Erdős number is 3.
 
+I'm currently a tenure-track assistant professor in the Information Systems, Business Statistics, and Operations Management department at HKUST. I earned my Ph.D. from the University of Texas at Austin. My research interests lie in the future of labor markets, FinTech, health IT, and statistical learning. My work has been published in journals such as MIS Quarterly, ISR, and POM, and has also been highlighted by Bloomberg Businessweek and CNBC Professional. I've had the opportunity to present my research at the Federal Reserve Bank of Philadelphia and the Office of the Comptroller of the Currency, U.S. Department of Treasury. Additionally, I have contributed methodological work to leading journals in machine learning and statistics, including Biometrika and JMLR. For the trivia lovers out there, I've somehow ended up with an Erdős number of 3.
 
 I also [teach classes]({{ site.baseurl }}/teaching/) in Blockchain, FinTech and cryptoventures for MBA, MSc and BBA students at HKUST.
 
