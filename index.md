@@ -44,12 +44,12 @@ My  research interests  include:
 + Oscar Madrid,  James Sharpnack, **Yanzhen Chen**, Daniela  Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso
 . **Biometrika**, 107.2 (2020). [PDF](https://academic.oup.com/biomet/article-abstract/107/2/293/5717457). [Code](https://github.com/stevenysw/qt_knnfl).
 
-+ Siwei Ye, **Yanzhen Chen**, and Oscar Madrid. "2d score based estimation of heterogeneous treatment effects."  **To appear in Journal of Causal Inference**.
++ Siwei Ye, **Yanzhen Chen**, and Oscar Madrid. 2D Score-Based Estimation of Heterogeneous Treatment Rffects." **Journal of Causal Inference** 11. 1 (2023) .
 [Code](https://github.com/stevenysw/causal_pp).
 
-+ YikLun Kei, **Yanzhen Chen**, and Oscar Madrid. "A Partially Separable Model for Dynamic Valued Networks." **Computational Statistics & Data Analysis** (2023): 107811.[PDF](https://www.sciencedirect.com/science/article/pii/S0167947323001226).
+<!-- + YikLun Kei, **Yanzhen Chen**, and Oscar Madrid. A Partially Separable Model for Dynamic Valued Networks. **Computational Statistics & Data Analysis** (2023): 107811.[PDF](https://www.sciencedirect.com/science/article/pii/S0167947323001226).
 
-+ Oscar Madrid and **Yanzhen Chen**.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. **Accepted by The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
++ Oscar Madrid and **Yanzhen Chen**.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. **Accepted by The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).-->
 
 ### Working Papers
 
