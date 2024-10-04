@@ -29,7 +29,7 @@ My  research interests  include:
 
 ### Published/Accepted Papers
 
-+ **Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Conversation Analytics: Can Machines Read between the Lines in Real-Time Strategic Conversations?. Accepted by **Information Systems Research**.
++ **Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Conversation Analytics: Can Machines Read between the Lines in Real-Time Strategic Conversations?. Accepted by **Information Systems Research**. [Media Coverage by Medium](https://medium.com/texas-mccombs/to-detect-evasive-ceos-use-ai-8aa5a90fcca0)
 
 + **Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Tweet To the Top? Social Media Personal Branding and Career Outcomes.  **MIS Quarterly**, 45.2 (2021).[A Non-Technical Video](https://www.youtube.com/watch?v=xvpmZypbJ7w), [Media Coverage by Bloomberg](https://www.bloomberg.com/news/articles/2021-02-25/branding-yourself-on-twitter-works-it-did-in-2012-anyway#xj4y7vzkg), [Media Coverage by AAAS](https://www.eurekalert.org/news-releases/960251), [Media Coverage by South China Morning Post](https://www.scmp.com/presented/business/topics/hkust-biz-school-magazine/article/3011484/role-internet-labor-markets), [Another Media Coverage by SCMP](https://www.scmp.com/presented/business/topics/online-practices-changing-world-work/article/2152920/online-practices) and [Media Coverage in Chinese (香港经济日报)](https://paper.hket.com/article/3400983/%E7%A4%BE%E5%AA%92%E5%BB%BA%E5%80%8B%E4%BA%BA%E5%93%81%E7%89%8C%20%E6%94%80%E5%B0%B1%E6%A5%AD%E9%9A%8E%E6%A2%AF%E9%A0%82%E5%B3%B0?mtc=h0003)
 
