@@ -87,8 +87,8 @@ My  research interests  include:
 + Course Coordinator for ISOM 2010 (Intro to IS)
 + Faculty Advisor for ISOM 6380 (Information Systems Practicum, collaboration with industry)
 + **Franklin Prize for Teaching Excellence Finalist in 2023**
-+ **Dean's Honor for Excellence in Teaching for ISOM 3350 in 2021**
-+ **Dean's Honor for Excellence in Teaching for ACCT 5801, 2019 - 2023**
++ **Dean's Recognition of Excellent Teaching for ISOM 3350 in 2021**
++ **Dean's Recognition of Excellent Teaching for ACCT 5801, 2020 - 2023**
 
 **Internal Services**
 
