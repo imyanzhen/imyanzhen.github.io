@@ -57,7 +57,7 @@ My  research interests  include:
 
 + Che-Wei Liu, **Yanzhen Chen** and Ming-Hui Wen. Alert for Alerts: How Investment Price Tracking Alerts Affect Retail Investors. [Media Coverage by CNBC Pro](https://www.cnbc.com/2023/06/29/like-getting-price-tracking-alerts-from-your-online-broker-heres-why-you-should-be-careful.html), [Media Coverage by wealthmanagement.com](https://www.wealthmanagement.com/technology/dark-side-financial-technology-tools) **SSRN's Top Ten download list for: ERN: Market Structure (Topic) as of Jul 2023**
 
-+ Sijia Zhou, **Yanzhen Chen** and Xin Li. Digital Solutions to Healthcare Demand Imbalance: The Impact of Add-on Services on Online Healthcare Platforms. The early version of this paper was among **SSRN's Top Ten download list for: Industry Specific Strategy & Policy eJournal and POL: Service Industry (Topic) as of Nov 2023**
++ Sijia Zhou, **Yanzhen Chen** and Xin Li. Digital Pill to Demand Ill: The Impact of Non-Diagnostic Digital Services on Online Healthcare Consultation. The early version of this paper was among **SSRN's Top Ten download list for: Industry Specific Strategy & Policy eJournal and POL: Service Industry (Topic) as of Nov 2023**
  
 + Sunil Mithas, **Yanzhen Chen**, Che-Wei Liu, and Michael Kimbrough. How Information Technology Investments Influence Quality of Management Forecasts: Evidence from the United States
 
