@@ -75,7 +75,7 @@ My  research interests  include:
 
 + Theme-based Research Scheme (**HK$20,659,000**), Contributing to the Development of Hong Kong into a Global Fintech Hub, Hong Kong Research Grants Council, 2018-2022
   
-+ An Interactive LLM-Based Playground for DApp Contracts Testing, with Daoyuan Wu, proposal submitted.
++ An Interactive Web-Based playground for Instant Trials and Analytics in Blockchain-related Courses (**HK$300,000**), Teaching and Learning Innovation Projects, 2025-2026
 
 + HKUST-WeBank Joint Lab Project (**HK $750,360**), Programmatic Advertising Retargeting and AI Customer Service, 2019-2023
 
