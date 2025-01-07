@@ -10,8 +10,7 @@ layout: page
 **Current Students**
 
 + Qianqian Zhuang (PhD student, HKUST, Co-supervising with Prof. Allen Huang)
-
-
++ Shirley Qin (DBA student, HKUST, executive director and senior banker at J.P. Morgan in Hong Kong)
 
 
 **RAs**
@@ -21,7 +20,7 @@ layout: page
 + Haijing Zong (RA -> Univ of Washington at Seattle, Econ PhD)
 
 **Past Students** 
-
++ Steven Ye (PhD Student, UCLA -> Google, Research Data Scientist )
 + Lihang Cui (Mphil student, HKUST FinTech -> CITIC Securities, Investment Banking, Co-supervised with Prof. Can Yang)
 + Jialiang Li (Mphil Student, HKUST ISOM -> New Jersey Institute of Technology, CS PhD)
 + Siddhartha Datta (BBA Student, HKUST Global Business and Information Systems -> Oxford, CS PhD)
