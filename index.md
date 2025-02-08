@@ -29,7 +29,7 @@ My  research interests  include:
 
 ### Published/Accepted Papers
 
-+ **Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Conversation Analytics: Can Machines Read between the Lines in Real-Time Strategic Conversations?. Accepted by **Information Systems Research** 2024 May 8. [Media Coverage by Medium](https://medium.com/texas-mccombs/to-detect-evasive-ceos-use-ai-8aa5a90fcca0)
++ **Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Conversation Analytics: Can Machines Read between the Lines in Real-Time Strategic Conversations?. Accepted by **Information Systems Research**, 2024 May 8. [Media Coverage by Medium](https://medium.com/texas-mccombs/to-detect-evasive-ceos-use-ai-8aa5a90fcca0)
   
 + Arun Rai, **Yanzhen Chen** and Yatang Lin. Exclusion for Public Safety or Inclusion for Gig Employment: Managing the Tension with a Trilogy of Guardians, **MIS Quarterly** 48.8 (2024). [Code](https://osf.io/gsbr9).
 
