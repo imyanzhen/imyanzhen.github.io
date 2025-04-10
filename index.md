@@ -29,7 +29,9 @@ My  research interests  include:
 
 ### Published/Accepted Papers
 
-+ **Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Conversation Analytics: Can Machines Read between the Lines in Real-Time Strategic Conversations?. Accepted by **Information Systems Research**, 2024 May 8. [Media Coverage by Medium](https://medium.com/texas-mccombs/to-detect-evasive-ceos-use-ai-8aa5a90fcca0)
++ Sijia Zhou, **Yanzhen Chen** and Xin Li. The Impact of Non-Diagnostic Digital Services on Online Healthcare Consultation. Accepted by **Journal of Management Information Systems**
+
++ **Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Conversation Analytics: Can Machines Read between the Lines in Real-Time Strategic Conversations?. **Information Systems Research**, 2024 May 8. [Media Coverage by Medium](https://medium.com/texas-mccombs/to-detect-evasive-ceos-use-ai-8aa5a90fcca0)
   
 + Arun Rai, **Yanzhen Chen** and Yatang Lin. Exclusion for Public Safety or Inclusion for Gig Employment: Managing the Tension with a Trilogy of Guardians, **MIS Quarterly** 48.8 (2024). [Code](https://osf.io/gsbr9).
 
@@ -57,8 +59,6 @@ My  research interests  include:
 
 + **Yanzhen Chen**,Che-Wei Liu and Ming-Hui Wen. Alert for Alerts: How Investment Price Tracking Alerts Affect Retail Investors. [Media Coverage by CNBC Pro](https://www.cnbc.com/2023/06/29/like-getting-price-tracking-alerts-from-your-online-broker-heres-why-you-should-be-careful.html), [Media Coverage by wealthmanagement.com](https://www.wealthmanagement.com/technology/dark-side-financial-technology-tools) **SSRN's Top Ten download list for: ERN: Market Structure (Topic) as of Jul 2023**
 
-+ Sijia Zhou, **Yanzhen Chen** and Xin Li. Digital Pill to Demand Ill: The Impact of Non-Diagnostic Digital Services on Online Healthcare Consultation. The early version of this paper was among **SSRN's Top Ten download list for: Industry Specific Strategy & Policy eJournal and POL: Service Industry (Topic) as of Nov 2023**
- 
 + Sunil Mithas, **Yanzhen Chen**, Che-Wei Liu, and Michael Kimbrough. How Information Technology Investments Influence Quality of Management Forecasts: Evidence from the United States
 
 + Oscar Madrid, **Yanzhen Chen**, Gabriel Ruiz. A Causal Fused Lasso for Interpretable Heterogeneous Treatment Effects Estimation
