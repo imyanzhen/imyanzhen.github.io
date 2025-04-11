@@ -29,7 +29,6 @@ My  research interests  include:
 
 ### Published/Accepted Papers
 
-+ Sijia Zhou, **Yanzhen Chen** and Xin Li. The Impact of Non-Diagnostic Digital Services on Online Healthcare Consultation. Accepted by **Journal of Management Information Systems**
 
 + **Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Conversation Analytics: Can Machines Read between the Lines in Real-Time Strategic Conversations?. **Information Systems Research**, 2024 May 8. [Media Coverage by Medium](https://medium.com/texas-mccombs/to-detect-evasive-ceos-use-ai-8aa5a90fcca0)
   
@@ -55,6 +54,8 @@ My  research interests  include:
 
 ### Working Papers
 
++ Sijia Zhou, **Yanzhen Chen** and Xin Li. The Impact of Non-Diagnostic Digital Services on Online Healthcare Consultation. minor revision at **Journal of Management Information Systems**
++ 
 + **Yanzhen Chen** and Sunil Mithas. Do Affirmative Action Policies Reduce the Female Wage Gap for Information Technology Professionals? Evidence from India
 
 + **Yanzhen Chen**,Che-Wei Liu and Ming-Hui Wen. Alert for Alerts: How Investment Price Tracking Alerts Affect Retail Investors. [Media Coverage by CNBC Pro](https://www.cnbc.com/2023/06/29/like-getting-price-tracking-alerts-from-your-online-broker-heres-why-you-should-be-careful.html), [Media Coverage by wealthmanagement.com](https://www.wealthmanagement.com/technology/dark-side-financial-technology-tools) **SSRN's Top Ten download list for: ERN: Market Structure (Topic) as of Jul 2023**
