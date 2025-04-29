@@ -30,7 +30,7 @@ My  research interests  include:
 ### Published/Accepted Papers
 + Sijia Zhou, **Yanzhen Chen** and Xin Li. The Impact of Non-Diagnostic Digital Services on Online Healthcare Consultation. forthcoming at **Journal of Management Information Systems**
   
-+ **Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Conversation Analytics: Can Machines Read between the Lines in Real-Time Strategic Conversations?. **Information Systems Research**, 2024 May 8. [Media Coverage by Medium](https://medium.com/texas-mccombs/to-detect-evasive-ceos-use-ai-8aa5a90fcca0)
++ **Yanzhen Chen**, Huaxia Rui, Andrew Whinston. Conversation Analytics: Can Machines Read between the Lines in Real-Time Strategic Conversations?. **Information Systems Research**, 36.1 (2024). [Media Coverage by Medium](https://medium.com/texas-mccombs/to-detect-evasive-ceos-use-ai-8aa5a90fcca0)
   
 + Arun Rai, **Yanzhen Chen** and Yatang Lin. Exclusion for Public Safety or Inclusion for Gig Employment: Managing the Tension with a Trilogy of Guardians, **MIS Quarterly** 48.8 (2024). [Code](https://osf.io/gsbr9).
 
