@@ -115,7 +115,7 @@ My  research interests  include:
 + Associate Editor, International Conference on Information Systems (ICIS), Blockchain, DLT, and Fintech Track,  2020
 + Associate editor, PACIS 2023, Economics of IS Track 
 + WISE discussant, 2021
-+ Program Committee, Conference on Information Systems and Technology (CIST) 2017, 2019, 2020, 2022 
++ Program Committee, Conference on Information Systems and Technology (CIST) 2017, 2019, 2020, 2022, 2025 
 + Program Committee, Workshop on Information Technology and Systems (WITS) 2019 
 + Session Chair, DSI 2016 Business Analytics: Information Analytics Session 
 + Reviewer, Journal of Machine Learning Research **JMLR**, Annals of Statistics **AOS**, **Biometrika**  
