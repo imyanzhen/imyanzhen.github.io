@@ -93,22 +93,8 @@ My  research interests  include:
 + **Dean's Recognition of Excellent Teaching for ISOM 3350 in 2021**
 + **Dean's Recognition of Excellent Teaching for ACCT 5801, 2020 - 2023**
 
-**Internal Services**
-
-+ Executive Committee Member, HKUST Institute for Emerging Market Studies, 2018-2020
-+ ISOM Department Search and Appointments Committee, 2019-2021
-+ ISOM Department Search Interviews, 2017- 2021
-+ Mphil Advisor for Lucy Zhao and Lihang Cui
-+ HKUST Mainland Undergraduate Admission Interview in Beijing, 2018, 2020
-+ Sample Class Instructor for HKUST Business Summer Camp, 2018
-+ MSc Program Committee 2022-2023
-+ Contributed to two issues of HKUST Business School Magazine Biz@HKUST
-+ MScISM Corporate Projects with Cyberport Start-ups for 2023 Spring, collaborating with Super Cat Technology Limited
-+ Presented at BizInsight@HKUST, to MBA alumni and the industry, on how the development of the Internet and social media has affected the online labor market
-
-
 **Professional Services**
-
++ Associate Editor, Business & Information Systems Engineering
 + Guest Associate Editor, ACM Transactions on Management Information Systems, Special Issue on IT-enabled Business Management and Decision Making in (Post) Covid-19 Era
 + Best Associate Editor, 2022 International Conference on Information Systems (ICIS), Blockchain Track
 + Associate Editor, International Conference on Smart Finance (ICSF), 2022
@@ -122,5 +108,17 @@ My  research interests  include:
 + Reviewer, Management Science, MIS Quarterly,  Information Systems Research 
 + Reviewer, Production and Operations Management, **POM**  
 
+**Internal Services**
+
++ Executive Committee Member, HKUST Institute for Emerging Market Studies, 2018-2020
++ ISOM Department Search and Appointments Committee, 2019-2021
++ ISOM Department Search Interviews, 2017- 2021
++ Mphil Advisor for Lucy Zhao and Lihang Cui
++ HKUST Mainland Undergraduate Admission Interview in Beijing, 2018, 2020
++ Sample Class Instructor for HKUST Business Summer Camp, 2018
++ MSc Program Committee 2022-2023
++ Contributed to two issues of HKUST Business School Magazine Biz@HKUST
++ MScISM Corporate Projects with Cyberport Start-ups for 2023 Spring, collaborating with Super Cat Technology Limited
++ Presented at BizInsight@HKUST, to MBA alumni and the industry, on how the development of the Internet and social media has affected the online labor market
 
 <a href="https://clustrmaps.com/site/1bpy1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GqAkpiNYTOrL7fSu0ObUhuK1KMv5TJFr-jQhyTz6Vvw&cl=ffffff" /></a>
