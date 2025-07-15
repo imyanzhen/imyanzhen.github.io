@@ -68,6 +68,7 @@ My  research interests  include:
 
 + Early Career Scheme (**HK $553,000**), Speak without Speaking: Stock Prices and the FOMC Press Conferences, Hong Kong Research Grants Council, 2019-2022
 + IEMS Research Grants (**HK $168,000**), Social Impacts of Sharing Economy, Co-PI with Yatang Lin, HKUST Institute for Emerging Market Studies, 2018-2020
++ An Interactive Web-Based playground for Instant Trials and Analytics in Blockchain-related Courses (**HK$300,000**), Teaching and Learning Innovation Projects, 2025-2026
 + University Initial Grant (**HK $100,000**), HKUST, 2017
 + Education and Generative Artificial Intelligence (EDGE-AI), Intelligent Entrepreneurs: The Trilogy of Teaching, Learning, and AI-Driven Journey to Business Mastery (**HK $95,000**), HKUST, 2023
 
@@ -75,8 +76,6 @@ My  research interests  include:
 
 + Theme-based Research Scheme (**HK$20,659,000**), Contributing to the Development of Hong Kong into a Global Fintech Hub, Hong Kong Research Grants Council, 2018-2022
   
-+ An Interactive Web-Based playground for Instant Trials and Analytics in Blockchain-related Courses (**HK$300,000**), Teaching and Learning Innovation Projects, 2025-2026
-
 + HKUST-WeBank Joint Lab Project (**HK $750,360**), Programmatic Advertising Retargeting and AI Customer Service, 2019-2023
 
 + The Hidden Dynamics:Collusion Between Sell-Side Analysts and Fund Managers, National Science Foundation of China (Grant No. 72472171) (卖方分析师与基金经理利益互换的实现机制与经济后果)
