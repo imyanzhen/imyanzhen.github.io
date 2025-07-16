@@ -96,13 +96,12 @@ My  research interests  include:
 + Associate Editor, Business & Information Systems Engineering
 + Guest Associate Editor, ACM Transactions on Management Information Systems, Special Issue on IT-enabled Business Management and Decision Making in (Post) Covid-19 Era
 + Best Associate Editor, 2022 International Conference on Information Systems (ICIS), Blockchain Track
-+ Associate Editor, International Conference on Smart Finance (ICSF), 2022
++ Associate Editor, International Conference on Smart Finance (ICSF), 2022, 2025
 + Associate Editor, International Conference on Information Systems (ICIS), Blockchain, DLT, and Fintech Track,  2020
 + Associate editor, PACIS 2023, Economics of IS Track 
 + WISE discussant, 2021
 + Program Committee, Conference on Information Systems and Technology (CIST) 2017, 2019, 2020, 2022, 2025 
 + Program Committee, Workshop on Information Technology and Systems (WITS) 2019 
-+ Session Chair, DSI 2016 Business Analytics: Information Analytics Session 
 + Reviewer, Journal of Machine Learning Research **JMLR**, Annals of Statistics **AOS**, **Biometrika**  
 + Reviewer, Management Science, MIS Quarterly,  Information Systems Research 
 + Reviewer, Production and Operations Management, **POM**  
