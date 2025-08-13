@@ -76,8 +76,6 @@ My  research interests  include:
 
 + Theme-based Research Scheme (**HK$20,659,000**), Contributing to the Development of Hong Kong into a Global Fintech Hub, Hong Kong Research Grants Council, 2018-2022
   
-+ HKUST-WeBank Joint Lab Project (**HK $750,360**), Programmatic Advertising Retargeting and AI Customer Service, 2019-2023
-
 + The Hidden Dynamics:Collusion Between Sell-Side Analysts and Fund Managers, National Science Foundation of China (Grant No. 72472171) (卖方分析师与基金经理利益互换的实现机制与经济后果)
 
   
