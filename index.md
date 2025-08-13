@@ -12,7 +12,7 @@ I'm currently an associate professor in the Information Systems, Business Statis
 
 I also [teach classes]({{ site.baseurl }}/teaching/) in Blockchain, FinTech and cryptoventures for MBA, MSc and BBA students at HKUST.
 
-### If you're an undergrad or grad student at HKUST, I'm also hiring for part-time/full-time RA work. Shoot me an email if you're interested!
+### If you're an undergrad or grad student at HKUST, I'm also hiring for part-time/full-time RA work. For external applicants, we are also open to full-time Pre-Doctoral research fellows applications. Shoot me an email if you're interested!
 
 My  research interests  include:
 - Digital Technologies and Social Justice
