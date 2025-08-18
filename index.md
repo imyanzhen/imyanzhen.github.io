@@ -92,7 +92,8 @@ My  research interests  include:
 
 **Professional Services**
 + Associate Editor, Business & Information Systems Engineering
-+ Guest Associate Editor, ACM Transactions on Management Information Systems, Special Issue on IT-enabled Business Management and Decision Making in (Post) Covid-19 Era
++ Associate Editor, Information & Management, Special Issue on Transformative AI in Online Markets: Development, Impact and the Road Ahead
++ Associate Editor, ACM Transactions on Management Information Systems, Special Issue on IT-enabled Business Management and Decision Making in (Post) Covid-19 Era
 + Best Associate Editor, 2022 International Conference on Information Systems (ICIS), Blockchain Track
 + Associate Editor, International Conference on Smart Finance (ICSF), 2022, 2025
 + Associate Editor, International Conference on Information Systems (ICIS), Blockchain, DLT, and Fintech Track,  2020
