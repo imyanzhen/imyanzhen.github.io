@@ -3,7 +3,7 @@ layout: page
 title: Welcome!
 ---
 
-<img src="{{ site.baseurl }}/img/Yanzhen.jpg" width="200" height="500" ALIGN="right" style="margin:10px 15px"/>
+<img src="{{ site.baseurl }}/img/yanzhen2.jpg" width="200" height="500" ALIGN="right" style="margin:10px 15px"/>
 
 
 
