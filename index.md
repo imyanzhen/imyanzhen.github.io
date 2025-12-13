@@ -89,9 +89,10 @@ My  research interests  include:
 + Faculty Advisor for ISOM 6380 (Information Systems Practicum, collaboration with industry)
 + **Franklin Prize for Teaching Excellence Finalist in 2023**
 + **Dean's Recognition of Excellent Teaching for ISOM 3350 in 2021**
-+ **Dean's Recognition of Excellent Teaching for ACCT 5801, 2020 - 2023**
++ **Dean's Recognition of Excellent Teaching for ACCT 5801, 2020 - 2023, 2025**
 
 **Professional Services**
++ Associate Editor, Decision Science Journal
 + Associate Editor, Business & Information Systems Engineering
 + Associate Editor, Information & Management, Special Issue on Transformative AI in Online Markets: Development, Impact and the Road Ahead
 + Associate Editor, ACM Transactions on Management Information Systems, Special Issue on IT-enabled Business Management and Decision Making in (Post) Covid-19 Era
