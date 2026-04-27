@@ -28,7 +28,7 @@ My  research interests  include:
 
 
 ### Published/Accepted Papers
-+ O.H.M Padilla, **Yanzhen Chen**, C.M.M Padilla, Gabriel Ruiz. A causal fused lasso for interpretable heterogeneous treatment effects estimation. Forthcoming at **Journal of Machine Learning Research**
++ O.H.M Padilla, **Yanzhen Chen**, C.M.M Padilla, Gabriel Ruiz. A causal fused lasso for interpretable heterogeneous treatment effects estimation. **Journal of Machine Learning Research** 27.40 (2026).
 
 + **Yanzhen Chen** and Sunil Mithas. Do Affirmative Action Policies Reduce the Female Wage Gap for Information Technology Professionals? Evidence from India. Forthcoming at **MIS Quarterly**
 
