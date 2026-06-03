@@ -123,6 +123,4 @@ My  research interests  include:
 
 <hr>
 <h3>Visitors</h3>
-<div style="margin-top: 1em;">
-  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=J6ir8xLJ23jsNs5wPVwwBvDgsRp8Mg9N7EwAD8PU7Ic"></script>
-</div>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=aAZokZZv-XBXNoxuh7eMpn_lhRpDACPFpXTF2tWIEPA&cl=ffffff&w=a"></script>
