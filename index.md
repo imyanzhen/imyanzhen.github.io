@@ -121,4 +121,8 @@ My  research interests  include:
 + MScISM Corporate Projects with Cyberport Start-ups for 2023 Spring, collaborating with Super Cat Technology Limited
 + Presented at BizInsight@HKUST, to MBA alumni and the industry, on how the development of the Internet and social media has affected the online labor market
 
-<a href="https://clustrmaps.com/site/1bpy1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GqAkpiNYTOrL7fSu0ObUhuK1KMv5TJFr-jQhyTz6Vvw&cl=ffffff" /></a>
+<hr>
+<h3>Visitors</h3>
+<div style="margin-top: 1em;">
+  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=J6ir8xLJ23jsNs5wPVwwBvDgsRp8Mg9N7EwAD8PU7Ic"></script>
+</div>
