@@ -125,8 +125,17 @@ My  research interests  include:
 <h3>Visitors</h3>
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=aAZokZZv-XBXNoxuh7eMpn_lhRpDACPFpXTF2tWIEPA&cl=ffffff&w=a"></script>
 
-<!-- Histats.com  START (html only)-->
-<a href="/" alt="page hit counter" target="_blank" >
-<embed src="//s10.histats.com/26.swf"  flashvars="jver=1&acsid=5033073&domi=4"  quality="high"  width="190" height="115" name="26.swf"  align="middle" type="application/x-shockwave-flash" pluginspage="//www.macromedia.com/go/getflashplayer" wmode="transparent" /></a>
-<img  src="//sstatic1.histats.com/0.gif?5033073&101" alt="free webpage hit counter" border="0">
-<!-- Histats.com  END  -->
+<!-- Default Statcounter code for Personal Website https://imyanzhen.github.io/
+-->
+<script type="text/javascript">
+var sc_project=13296969; 
+var sc_invisible=1; 
+var sc_security="8a3bc4bc"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/13296969/0/8a3bc4bc/1/" alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
