@@ -28,7 +28,7 @@ My  research interests  include:
 
 
 ### Published/Accepted Papers
-+ Junpeng Ren, C.S.M Padilla, **Yanzhen Chen**, O.H.M Padilla. Transfer Learning in Nonparametric Regression with Deep ReLU Networks. **ICML 2026**
++ Junpeng Ren, C.M.M Padilla, **Yanzhen Chen**, O.H.M Padilla. Transfer Learning in Nonparametric Regression with Deep ReLU Networks. **ICML 2026**
   
 + O.H.M Padilla, **Yanzhen Chen**, C.M.M Padilla, Gabriel Ruiz. A causal fused lasso for interpretable heterogeneous treatment effects estimation. **Journal of Machine Learning Research** 27.40 (2026).
 
