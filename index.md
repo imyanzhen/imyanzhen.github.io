@@ -125,17 +125,4 @@ My  research interests  include:
 <h3>Visitors</h3>
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=aAZokZZv-XBXNoxuh7eMpn_lhRpDACPFpXTF2tWIEPA&cl=ffffff&w=a"></script>
 
-<!-- Default Statcounter code for Personal Website https://imyanzhen.github.io/
--->
-<script type="text/javascript">
-var sc_project=13296969; 
-var sc_invisible=1; 
-var sc_security="8a3bc4bc"; 
-</script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js" async></script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="https://statcounter.com/" target="_blank"><img class="statcounter"
-src="https://c.statcounter.com/13296969/0/8a3bc4bc/1/" alt="Web Analytics"
-referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-<!-- End of Statcounter Code -->
+
