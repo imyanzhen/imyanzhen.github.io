@@ -69,7 +69,7 @@ My  research interests  include:
 
 ### Grants:
 **PI** 
-
++ RGC General Research Fund (**HK $542,096**), From Compliance to Capability: How Technology-Driven Privacy Protection Can Deliver Security Without the Economic Costs of Regulation, Hong Kong Research Grants Council, 2027-2029
 + Early Career Scheme (**HK $553,000**), Speak without Speaking: Stock Prices and the FOMC Press Conferences, Hong Kong Research Grants Council, 2019-2022
 + IEMS Research Grants (**HK $168,000**), Social Impacts of Sharing Economy, Co-PI with Yatang Lin, HKUST Institute for Emerging Market Studies, 2018-2020
 + An Interactive Web-Based playground for Instant Trials and Analytics in Blockchain-related Courses (**HK$300,000**), Teaching and Learning Innovation Projects, 2025-2026
